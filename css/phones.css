@@ -1,0 +1,130 @@
+body{
+    background-color: rgb(252, 243, 230);
+    background-image: url("../images/phones/background.jpg");
+   
+    width: 101.5%;
+  }
+
+ .slid{
+background-color: rgb(9, 20, 15);
+height: 500px;
+margin-left: -10px;
+margin-top: -20px;
+}
+
+.navbar{
+
+    background-color: rgb(19, 37, 28);
+    color: blanchedalmond;
+    overflow: hidden;
+    margin-left: -10px;
+     
+
+
+}
+h2 {float: left;font-size: 30px;margin-left: 70px;font-style: italic;}
+span{color: #26a85c;font-size: 20px;font-style: normal;}
+.navbar ul{
+    list-style: none;
+    padding-left: 0;
+    float: right;
+    overflow: hidden;
+    margin-right: 200px;
+    font-size: 20px ;
+}
+.navbar ul li{float: left;padding: 10px;
+margin-right: 20px;    
+border-radius: 27px;
+border-right:2px solid #555;
+border-left : 2px solid #555;
+}
+video{width: 1500px; height: 500px;}
+
+.header ul li a{ color: blanchedalmond; display: block;text-decoration: none;}
+
+li a:hover:not(.active){background-color: rgb(2, 128, 71);color: rgb(250, 249, 246);padding: 10px; ;border-radius: 70px;}
+
+li a.active { background-color:  rgb(2, 128, 71);color: rgb(243, 243, 243);padding: 10px; ;border-radius: 70px;
+}
+
+
+
+
+
+div.gallery {
+ 
+    border: 1px solid rgba(255, 235, 205, 0.37);
+
+    float: left;
+    width: 180px;
+    top: 10px;
+    padding: 100px;
+
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+ 
+}
+
+div.gallery img {
+  width: 150px;
+  height: 150px;
+  
+  transition: 1s;
+}
+div.gallery img:hover {
+ 
+
+  transform: scale(1.1);
+}
+
+div.desc {
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+.button{
+  background-color: rgb(0, 0, 0);
+  color:blanchedalmond;
+  border: 1px solid;
+  padding: 15px;
+  border-radius: 50px;
+  font-size: medium;
+  text-align: center;
+
+}
+a:link {
+  color: rgb(248, 222, 183);
+}
+
+
+a:visited {
+  color: green;
+}
+
+
+a:hover {color: rgb(75, 164, 238);
+ 
+}
+
+
+a:active {
+    color: red;
+}
+.all1{
+  margin-left: 200px;
+  border: 2px solid rgba(255, 235, 205, 0.671);
+  margin-right: 185.9px;
+overflow: hidden;
+background-color: rgba(17, 17, 17, 0.87);
+;
+
+
+}
+hr{
+ background-color: rgb(19, 37, 28);
+ height: 1px;
+ width: 50%;
+}

@@ -1,0 +1,86 @@
+
+body{
+    background-image: url("../images/phones/background.jpg");
+  }
+
+header{
+    color:white;
+    font-variant: small-caps;
+    font-size: 40px;
+    text-align: center;
+    border-style: solid ;
+    border-color: red;
+    background: darkred
+}
+
+.slid{
+  
+    background-color: rgb(9, 20, 15);
+    height: 500px;
+    margin-left: -10px;
+    margin-top: -20px;
+    }
+    
+    .navbar{
+     
+        background-color: rgb(19, 37, 28);
+        color: blanchedalmond;
+        overflow: hidden;
+        margin-left: -10px;
+         
+    
+    
+    }
+    h2 {float: left;font-size: 30px;margin-left: 70px;font-style: italic;}
+    span{color: #26a85c;font-size: 20px;font-style: normal;}
+    .navbar ul{
+        list-style: none;
+        padding-left: 0;
+        float: right;
+        overflow: hidden;
+        margin-right: 200px;
+        font-size: 20px ;
+    }
+    .navbar ul li{float: left;padding: 10px;
+    margin-right: 20px;    
+    border-radius: 27px;
+    border-right:2px solid #555;
+    border-left : 2px solid #555;
+    }
+    video{width: 1500px; height: 500px;}
+    
+    .header ul li a{ color: blanchedalmond; display: block;text-decoration: none;}
+    
+    li a:hover:not(.active){background-color: rgb(2, 128, 71);color: rgb(250, 249, 246);padding: 10px; ;border-radius: 70px;}
+    
+    li a.active { background-color:  rgb(2, 128, 71);color: rgb(243, 243, 243);padding: 10px; ;border-radius: 70px;
+    }
+
+.logo1 {
+width: 100%; 
+height: 50%;
+
+}
+.logo {
+width: 100%;
+height: 50%;
+
+}
+.h{
+ font-variant: small-caps;
+font: size 200;
+color: yellow;
+text-align: center;
+}
+
+p{
+   color: white;
+   font-size: 20px;
+
+}
+.n{
+   border-style: solid;
+   color: yellow;
+   border-color: navy;
+   border-width: 10px;
+   background: brown;

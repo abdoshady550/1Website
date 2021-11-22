@@ -1,0 +1,122 @@
+body
+{   
+  background-color:rgba(223, 222, 222, 0.171);
+  background-image:url("../images/591c3797210255.5ebfcd50f1db7.jpg");
+          
+
+}
+
+.head
+{
+    background-color: #1d1c1c;
+    font-style: bold;
+    width: 560px;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 34%;
+    margin-top: 30px;
+color: white;
+}
+span 
+{
+    font-size: 60px;
+    color: #26a85c;
+    
+}
+
+fieldset
+{
+    background-color: #1d1c1c;
+    margin-top: 4%;
+    width: 360px;
+    height: 400px;
+    border-radius: 20px;
+    margin-left: 41%;
+}
+.sign
+{
+    margin-top: 14px;
+    margin-left: 7%;
+    display: block;
+    width: 290px;
+    height: 40px;
+    font-weight: bolder;
+    font-size: medium;
+    border-radius: 8px;
+    text-align: center;
+    font-family:inherit;
+}
+.login
+{
+    background-color:rgb(151, 150, 150);
+    color: rgb(32, 31, 31) ;
+    border: 2px;
+    
+    padding: 10px;
+    margin-left: 55px;
+    padding-left:80px ;
+    padding-right: 80px;
+    
+    text-decoration: none;
+    border-radius: 17px ;
+    font-family: inherit;
+    font-weight: bolder;
+    font-size: 25px;
+    
+}
+legend
+{
+    font-size: 25px;
+    font-family: inherit;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 34%;
+    padding: 10px;
+    border: 3px;
+    background-color:rgb(212, 212, 212) ;
+    color: rgb(32, 31, 31) ;
+    border-radius: 20px;
+    
+}
+label 
+{
+    font-weight: bold;
+    font-size: 19px;
+    color: white;
+    margin-left: 9%;
+}
+.forgotten 
+{
+text-decoration: none;
+color: rgb(4, 82, 30);
+margin-left: 28%;
+
+
+}
+.forgotten:hover
+{
+    color: rgb(252, 252, 252);
+    text-decoration:underline;
+}
+
+.signup
+{
+    background-color:rgb(212, 212, 212);
+    color: rgb(32, 31, 31) ;
+    border: 2px;
+    
+    padding: 10px;
+    margin-left: 88px;
+    padding-left:40px ;
+    padding-right: 40px;
+    
+    text-decoration: none;
+    border-radius: 17px ;
+    font-family: inherit;
+    font-weight: bolder;
+    font-size: 25px;
+    
+}

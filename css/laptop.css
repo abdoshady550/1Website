@@ -1,0 +1,124 @@
+body{
+    width: 101.5%;
+    background-image: url("../images/phones/background.jpg");
+  }
+
+ .slid{
+ 
+background-color: rgb(9, 20, 15);
+height: 500px;
+margin-left: -10px;
+margin-top: -20px;
+}
+
+.navbar{
+
+    background-color: rgb(19, 37, 28);
+    color: blanchedalmond;
+    overflow: hidden;
+    margin-left: -10px;
+     
+
+
+}
+h2 {float: left;font-size: 30px;margin-left: 70px;font-style: italic;}
+span{color: #26a85c;font-size: 20px;font-style: normal;}
+.navbar ul{
+    list-style: none;
+    padding-left: 0;
+    float: right;
+    overflow: hidden;
+    margin-right: 200px;
+    font-size: 20px ;
+}
+.navbar ul li{float: left;padding: 10px;
+margin-right: 20px;    
+border-radius: 27px;
+border-right:2px solid #555;
+border-left : 2px solid #555;
+}
+video{width: 1500px; height: 500px;}
+
+.header ul li a{ color: blanchedalmond; display: block;text-decoration: none;}
+
+li a:hover:not(.active){background-color: rgb(2, 128, 71);color: rgb(250, 249, 246);padding: 10px; ;border-radius: 70px;}
+
+li a.active { background-color:  rgb(2, 128, 71);color: rgb(243, 243, 243);padding: 10px; ;border-radius: 70px;
+}
+
+
+
+
+
+div.gallery {
+ 
+  border:2px solid rgb(17, 17, 17);
+  float: left;
+  width: 180px;
+  top: 10px;
+  padding: 100px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+ 
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+  filter: blur(0.6 px);
+  transition: 1s;
+}
+div.gallery img:hover {
+ 
+  filter: blur(0);
+  transform: scale(1.1);
+}
+
+div.desc {
+  padding: 10px;
+  text-align: center;
+}
+
+.button{
+  background-color: rgb(9, 20, 15);
+  color:blanchedalmond;
+  border: 1px solid;
+  padding: 15px;
+  border-radius: 50px;
+  font-size: medium;
+  text-align: center;
+
+}
+a:link {
+  color: rgb(27, 27, 26);
+}
+
+
+a:visited {
+  color: green;
+}
+
+
+a:hover {
+  color: red;
+}
+
+
+a:active {
+  color: blue;
+}
+.all1{
+  margin-left: 200px;
+  border: 3px solid rgb(17, 17, 17);
+  margin-right: 183.9px;
+overflow: hidden;
+background-color: #fafafae7;
+
+}
+hr{
+ background-color: rgb(19, 37, 28);
+ height: 1px;
+ width: 50%;
+}

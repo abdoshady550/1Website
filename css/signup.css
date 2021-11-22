@@ -1,0 +1,87 @@
+body 
+       {
+            background-color:rgba(223, 222, 222, 0.171);
+            font-family: 'Times New Roman', Times, serif;
+        
+            background-image:url("../images/591c3797210255.5ebfcd50f1db7.jpg");
+              
+    
+       }
+
+   fieldset
+   {
+   width:450px ;
+   height:700px;
+   background-color: rgb(39, 37, 37);
+   border-radius: 18px;
+   margin-left: 40%;
+   margin-top: 2%;
+   border:  rgb(71, 71, 71);
+
+   }
+   .first , .surname , .date
+   {
+
+      width:200px;
+      height:40px ;
+      font-size: larger;
+      border-radius: 12px;
+      background-color:#efefef;
+    
+   }
+   .surname 
+   {
+  margin-left:10px;
+   }
+
+   .email , .password
+   {
+    width:420px;
+      height:50px ;
+      font-size: larger;
+      border-radius: 14px;
+      background-color:#efefef;
+      display: block;
+
+   }
+
+ p,label , .agree
+ {
+ font-weight: lighter;
+ color:gray;
+ margin-top: -13px;
+
+
+ }
+
+ h1 
+ {
+ font-weight: bolder;
+ font-size:38px;
+ color: rgb(226, 226, 226);
+ }
+  .date
+  {
+      width:210px;
+      height:50px;
+      font-size: larger;
+  }
+ .Ge
+ {
+     color:white;
+     font-weight: bolder;
+     font-size: larger;
+ }
+ .signup
+ {
+     width:150px;
+     height:35px;
+     border-radius: 10px;
+     margin-left: 140px;
+     background-color: rgb(255, 255, 255);
+     color: rgb(19, 18, 18);
+     font-weight: bolder;
+     font-size: 28px;
+     text-decoration: none;
+    padding: 15px;
+ }

@@ -1,0 +1,92 @@
+
+body{
+  background-image: url("../images/phones/background.jpg");
+}
+
+.slid{
+  
+  background-color: rgb(9, 20, 15);
+  height: 500px;
+  margin-left: -10px;
+  margin-top: -20px;
+  }
+  
+  .navbar{
+   
+      background-color: rgb(19, 37, 28);
+      color: blanchedalmond;
+      overflow: hidden;
+      margin-left: -10px;
+       
+  
+  
+  }
+  h2 {float: left;font-size: 30px;margin-left: 70px;font-style: italic;}
+  span{color: #26a85c;font-size: 20px;font-style: normal;}
+  .navbar ul{
+      list-style: none;
+      padding-left: 0;
+      float: right;
+      overflow: hidden;
+      margin-right: 200px;
+      font-size: 20px ;
+  }
+  .navbar ul li{float: left;padding: 10px;
+  margin-right: 20px;    
+  border-radius: 27px;
+  border-right:2px solid #555;
+  border-left : 2px solid #555;
+  }
+  video{width: 1500px; height: 500px;}
+  
+  .header ul li a{ color: blanchedalmond; display: block;text-decoration: none;}
+  
+  li a:hover:not(.active){background-color: rgb(2, 128, 71);color: rgb(250, 249, 246);padding: 10px; ;border-radius: 70px;}
+  
+  li a.active { background-color:  rgb(2, 128, 71);color: rgb(243, 243, 243);padding: 10px; ;border-radius: 70px;
+  }
+
+div.gallery:hover {
+  border: 1px solid rgb(128, 76, 76);
+}
+
+div.gallery img {
+  
+  width: 190px; 
+  height:auto;
+  padding:0 10px 0 10px ;
+
+}
+
+div.desc {
+  padding: 15px;
+  text-align:center;
+
+}
+.gallery{
+width: 205px;
+height: 403px;
+border: 1px solid #ccc;
+float: left;
+margin: 5px;
+background:rgb(170, 170, 170);
+}
+div.input{
+  position: bottom;
+  padding: 0px;
+  margin: 0px;
+}
+p{
+  font-size: 50px;
+  text-align:center;
+color:red;
+}
+input{
+  background-color: rgb(141, 137, 137);
+  color:rgb(2, 2, 1);
+  border: 1px solid;
+  padding: 5px;
+  border-radius: 20px;
+  font-size: medium;
+  text-align: center;
+}
